@@ -1,0 +1,12 @@
+.header {
+	font-style: italic;
+	color: red;
+}
+
+.no .nal {
+	background-color: red;
+}
+
+.yes .nal {
+	background-color: green;
+}
